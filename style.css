@@ -29,3 +29,7 @@ p {
     padding-left: 30px;
 }
 
+span {
+    background-color: black;
+    color: wheat;
+}
